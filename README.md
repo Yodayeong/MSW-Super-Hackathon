@@ -1,2 +1,2 @@
-# MSW-X-Super-Hackathon
-repo for MSW preperation
+# MSW--Super-Hackathon
+repo for MSW(Maple Story World) preperation
