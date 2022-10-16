@@ -56,13 +56,13 @@
 
   ![image-20221004014826523](chapter1.assets/image-20221004014826523.png)
 
-  (**TweenLineComponent **=> 시작점과 목적점 사이를 이동)
+  (**TweenLineComponent**=> 시작점과 목적점 사이를 이동)
 
   ![image-20221004014953494](chapter1.assets/image-20221004014953494.png)
 
   ![image-20221004015303679](chapter1.assets/image-20221004015303679.png)
 
-  (**ClimbableComponent **=> 객체에 올라갈 수 있도록 해줌)
+  (**ClimbableComponent**=> 객체에 올라갈 수 있도록 해줌)
 
   ![image-20221004015616023](chapter1.assets/image-20221004015616023.png)
 
